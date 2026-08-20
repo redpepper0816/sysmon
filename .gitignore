@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+*.app/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# icon build files
+SysMon.app/Contents/Resources/icon.iconset/
